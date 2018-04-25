@@ -106,7 +106,7 @@ As of 2018, Andy Bell is back with his first band Ride and Gem Archer and Chris 
 
 **Live Performances**
 
-* [Isle of Wright Festival](https://www.youtube.com/watch?v=gsWly8PtdAo) - June 12, 2011 - Isle of Wright Festival - Seaclose Park - Newport, Isle of Wright (UK) - Live broadcast of the band's set/footage used for the *The Beat Goes On* music video.
+* [Isle of Wight Festival](https://www.youtube.com/watch?v=gsWly8PtdAo) - June 12, 2011 - Isle of Wight Festival - Seaclose Park - Newport, Isle of Wight (UK) - Live broadcast of the band's set/footage used for the *The Beat Goes On* music video.
 
 #### Liam Gallagher
 
