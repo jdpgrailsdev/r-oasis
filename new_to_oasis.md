@@ -1,4 +1,4 @@
-LAST UPDATED: April 24, 2018 at 15:03PM GMT
+LAST UPDATED: April 25, 2018 at 14:00PM GMT
 
 *This page is in the process of being brought up to date and will be getting updates frequently, along with new additions.* 
 
@@ -104,11 +104,20 @@ As of 2018, Andy Bell is back with his first band Ride and Gem Archer and Chris 
 * Different Gear, Still Speeding (2011) - [Listen on Spotify](https://open.spotify.com/album/5408WteOw8kE5SzHPBZba3) | [Metacritic](http://www.metacritic.com/music/different-gear-still-speeding/beady-eye)
 * BE (2013) - [Listen on Spotify](https://open.spotify.com/album/2TGqciWJqA7Q2YoweroGWY) | [Metacritic](http://www.metacritic.com/music/be/beady-eye)
 
+**Live Performances**
+
+* [Isle of Wright Festival](https://www.youtube.com/watch?v=gsWly8PtdAo) - June 12, 2011 - Isle of Wright Festival - Seaclose Park - Newport, Isle of Wright (UK) - Live broadcast of the band's set/footage used for the *The Beat Goes On* music video.
+
 #### Liam Gallagher
 
 **Official Releases**
 
 * As You Were (2017) - [Listen on Spotify](https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X) | [Metacritic](http://www.metacritic.com/music/as-you-were/liam-gallagher)
+
+**Live Performances**
+
+* [McKittrick Hotel](https://www.youtube.com/watch?v=rikrjVGUzYA) - July 28, 2017 - New York City, New York (USA) - Broadcast as part of the PBS [Front and Center series](http://www.frontandcenter.com/liam-gallagher/).
+* [RadioX HQ](https://www.youtube.com/watch?v=vS8BE4AIbrM) - February 12, 2018 - London, England (UK) - Acoustic set for an intimate crowd on the roof of Global in London’s Leicester Square.
 
 #### Noel Gallagher's High Flying Birds
 
