@@ -1,4 +1,4 @@
-LAST UPDATED: April 25, 2018 at 14:00PM GMT
+LAST UPDATED: April 25, 2018 at 18:20PM GMT
 
 *This page is in the process of being brought up to date and will be getting updates frequently, along with new additions.* 
 
@@ -169,6 +169,7 @@ There have been many documentaries created about the band (especially the early 
 **Other**
 
 * [MTV Oasis Special - What’s the Story?](https://youtu.be/N4InF8iXZ7U) (1996) - Documentary to coincide with the band's North American tour.
+* [MTV Oasis Special - Be Here Now](https://www.youtube.com/watch?v=CEu9456EA7M) (1997) - Rocumentary to coincide with the band's release of *Be Here Now*.
 * [Right Here, Right Now](https://vimeo.com/75955411) (1997) - Documentary created by the BBC to celebrate the release of _Be Here Now_
 * [VH1 Behind the Music](https://youtu.be/B-DxyUqrKTI) (2000) - Episode of the _Behind the Music_ series dedicated to Oasis.
 * [Oasis Special: The Making of Don’t Believe the Truth](https://www.youtube.com/watch?v=1hvpIkFXdTo) (2005) - TV special that looks at the making of _Don't Believe the Truth_.
