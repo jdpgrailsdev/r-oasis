@@ -126,6 +126,7 @@ As of 2018, Andy Bell is back with his first band Ride and Gem Archer and Chris 
 * Noel Gallagher’s High Flying Birds (2011) - [Listen on Spotify](https://open.spotify.com/album/273aUxEFkxnRu1rD8DQmR5) | [Metacritic](http://www.metacritic.com/music/noel-gallaghers-high-flying-birds/noel-gallaghers-high-flying-birds)
 * Chasing Yesterday (2015) - [Listen on Spotify](https://open.spotify.com/album/3q0XXlwGIIRA8tw5Qpj7TX) | [Metacritic](http://www.metacritic.com/music/chasing-yesterday/noel-gallaghers-high-flying-birds)
 * Who Built the Moon? (2017) - [Listen on Spotify](https://open.spotify.com/album/044dVZJ6GIHy8LEK1WdDCq) | [Metacritic](http://www.metacritic.com/music/who-built-the-moon/noel-gallaghers-high-flying-birds)
+* Black Star Dancing (2019) - [Listen on Spotify](https://open.spotify.com/album/59KvTCbW9rHU0D8S7DOR10)
 
 **Live Performances**
 
@@ -206,6 +207,7 @@ If you are interested in information regarding the recording sessions, the gear 
 * [Owen Morris's Personal Website](http://owenmorris.net/oasis/)
 * [The Oasis Podcast](https://audioboom.com/channel/the-oasis-podcast)
 * [The Oasis Archive](http://oasisarchive.com/)
+* [The Oasis Timeline Project](https://www.oasis-timeline.com)
 
 ## Soldier On
 

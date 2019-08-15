@@ -1,3 +1,3 @@
-# /r/oasis Wiki
+# /r/oasis
 
-Copy of markdown used for the [/r/oasis sub-reddit wiki](https://www.reddit.com/r/oasis/wiki/index).
+Copy of the style and content used for the [/r/oasis sub-reddit](https://www.reddit.com/r/oasis).
