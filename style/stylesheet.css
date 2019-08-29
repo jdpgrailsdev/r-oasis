@@ -1,0 +1,755 @@
+body {
+	width: 1050px;
+	margin: 0 auto;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+/* Background */
+html {
+	background-color: black;
+	background-image: url(%%bg%%);
+	background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        width: 100%;
+}
+
+.pagename a {
+    background: url(%%logo0%%);
+    position: absolute;
+    background-repeat: no-repeat;
+    left: 680px;
+    top: -130px;
+    height: 180px;
+    width: 250px;
+    text-indent: -9001px
+    }
+/* Header */
+#header { 
+    background: black url(%%logob2%%) bottom left no-repeat;
+    height: 220px;
+    position: relative;
+    border-bottom: 1px solid #000;
+    }
+#header-bottom-left {
+    position: absolute;
+    bottom: 0;
+    }
+
+#header-img {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px
+    }
+
+#header-bottom-right {
+    background-color: white
+    }
+#header-bottom-right a {
+    color:black
+    }
+
+.tabmenu li.selected a {
+    background-color: white;
+    color: black;
+    border-color: white;
+    }
+.tabmenu li a {
+    background-color: black;
+    color: white;
+    border-left: 1px solid white;
+    border-top: 1px solid white;
+    border-right: 1px solid white
+    }
+
+/* Submit button */
+.submit .nub { display: none; }
+.submit .morelink { border-color: grey; background: #fff; }
+.submit .morelink a { font-size: 0; content: '';}
+.submit .morelink:hover { background: black; color: black; }
+.submit .morelink a::before { font-size: 15px; content: 'Submit'; }
+.side .submit-text { display: none; }
+
+/* Hides the community button */
+.sidebox.create .morelink {
+display: none;
+}
+.sidebox.create .spacer {
+display: none;
+}
+
+
+
+/* Link color */
+#siteTable div.thing a.title { 
+    color: black; 
+    }
+
+#siteTable div.thing a.title:visited {
+    color: #4d4d4d;
+    }
+
+/* Keep Calm */
+.side {
+    padding-top: 190px;
+    margin-top: 10px;
+    background-color: white;
+    background-image: url(%%funny%%);
+    background-repeat: no-repeat
+    }
+
+/* Flair */
+.flairselector .customizer {
+    display: none !important;
+    }
+.flair {
+    vertical-align: middle;
+    border: none !important;
+    top:20px;
+    padding:0px;
+    background: url(%%spritesheet2%%);
+    display:inline-block;
+    }
+
+
+.flair-01DefMaybe {
+    width: 30px;
+    height: 30px;
+    background-position: 0 0;
+}
+
+.flair-02MorningGlory {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -30px;
+}
+
+.flair-03BeHereNow {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -60px;
+}
+
+.flair-04Shoulder {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -90px;
+}
+
+.flair-05HeathChem {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -120px;
+}
+
+.flair-06Truth {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -150px;
+}
+
+.flair-07DigOutYourSoul {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -180px;
+}
+
+.flair-08Familiar {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -210px;
+}
+
+.flair-09Masterplan {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -240px;
+}
+
+.flair-10HFB {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -270px;
+}
+
+.flair-11DifferentGear {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -300px;
+}
+
+.flair-12StopTheClocks {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -330px;
+}
+
+.flair-13Whatever {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -360px;
+}
+
+.flair-14Noel {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -390px;
+}
+
+.flair-15Wonderwall {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -420px;
+}
+
+.flair-16Supersonic {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -450px;
+}
+
+.flair-17Shakermaker {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -480px;
+}
+
+.flair-18LiveForever {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -510px;
+}
+
+.flair-19CA {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -540px;
+}
+
+.flair-20SMS {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -570px;
+}
+
+.flair-21RollWithIt {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -600px;
+}
+
+.flair-22MGNoel {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -630px;
+min-width: 20px;
+ text-indent: 23px; 
+}
+
+.flair-23MGLiam {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -660px;
+}
+
+.flair-24WW {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -690px;
+}
+
+.flair-25DLBIA {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -720px;
+}
+
+.flair-26CSupernova {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -750px;
+}
+
+.flair-27DKWIM {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -780px;
+}
+
+.flair-28StandByMe {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -810px;
+}
+
+.flair-29AATW {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -840px;
+}
+
+.flair-30DGA {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -870px;
+}
+
+.flair-31GLIO {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -900px;
+}
+
+.flair-32WhoFeelsLove {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -930px;
+}
+
+.flair-33SMC {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -960px;
+}
+
+.flair-34TheHinduTimes {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -990px;
+}
+
+.flair-35SCYHO {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -1020px;
+}
+
+.flair-36LBL {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -1050px;
+}
+
+.flair-37Songbird {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -1080px;
+}
+
+.flair-38Lyla {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -1110px;
+}
+
+.flair-39TIOBI {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -1140px;
+}
+
+.flair-40LTBL {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -1170px;
+}
+
+.flair-41LDSMD {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -1200px;
+}
+
+.flair-42TSOTL {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -1230px;
+}
+
+.flair-43ImOuttaTime {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -1260px;
+}
+
+.flair-44FallingDown {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -1290px;
+}
+
+.flair-45GlastoLiam {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -1320px;
+}
+
+.flair-46GlastoNoel {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -1350px;
+}
+
+
+
+.flair-47ToothyBH {
+    width: 30px;
+    height: 30px;
+    background-position: 0 -2000px;
+}
+
+
+/* Gold Star */
+.id-t3_y5ryh a.title:before 
+{content: url(%%star%%)} a.title:before {padding-right: 5px}
+
+/* Gold Star2 */
+.id-t3_11qqqp a.title:before 
+{content: url(%%star%%)} a.title:before {padding-right: 5px}
+
+/* Gold Star3 */
+.id-t3_1e9lnu a.title:before 
+{content: url(%%star%%)} a.title:before {padding-right: 5px}
+
+/* Subscribers */
+div.titlebox span.word {
+    display: none
+    }
+div.titlebox span.number:after {
+    content: " madferits"
+    }
+div.titlebox .users-online span.word {
+display: none
+}
+div.titlebox .users-online span.number:after {
+content: " here now" } 
+
+/* Link info */
+.linkinfo {
+    background-color: white;
+    border: 1px solid black 
+    }
+
+/* Thumbnails */
+.thumbnail.default {
+ background-image: url(%%thumb1%%);
+ height: 50px;
+ background-position: -0px 0px;
+ background-repeat: no-repeat
+ }
+.thumbnail.self {
+ background-image: url(%%thumb2%%);
+ height: 50px;
+ background-position: -0px 0px;
+ background-repeat: no-repeat
+ }
+
+
+
+/* Here begin the stuff BillionBalconies fucked about with. Brace yourselves for disaster*/
+
+
+
+.linkflair-news .linkflairlabel {
+width: 100px;    
+
+vertical-align: middle;
+background-color: #ffb3b3;
+text-align: center;
+    font-family: arial;  font-size: small;
+    font-weight: bolder;
+    font-style: Italic;
+    color:#000000;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 0px;}
+
+
+.linkflair-disc .linkflairlabel {
+width: 75px;    
+background-color: #ffd9b3;
+text-align: center;
+    font-family: arial;  font-size: small;
+    font-weight: bolder;
+    font-style: Italic;
+    color:#000000;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 0px;}
+
+.linkflair-liveperf .linkflairlabel {
+width: 35px;    
+background-color: #ffffb3;
+text-align: center;
+    font-family: arial;  font-size: small;
+    font-weight: bolder;
+    font-style: Italic;
+    color:#000000;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 0px;}
+
+.linkflair-musicvid .linkflairlabel {
+width: 113px;    
+background-color: #d9ffb3;
+text-align: center;
+    font-family: arial;  font-size: small;
+    font-weight: bolder;
+    font-style: Italic;
+    color:#000000;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 0px;}
+
+.linkflair-videos .linkflairlabel {
+width: 40px;    
+background-color: #b3ffb3;
+text-align: center;
+    font-family: arial;  font-size: small;
+    font-weight: bolder;
+    font-style: Italic;
+    color:#000000;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 0px;}
+
+.linkflair-interview .linkflairlabel {
+width: 60px;    
+background-color: #b3ffd9;
+text-align: center;
+    font-family: arial;  font-size: small;
+    font-weight: bolder;
+    font-style: Italic;
+    color:#000000;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 0px;}
+
+.linkflair-articles .linkflairlabel {
+width: 50px;    
+background-color: #ffb3d9;
+text-align: center;
+    font-family: arial;  font-size: small;
+    font-weight: bolder;
+    font-style: Italic;
+    color:#000000;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 0px;}
+
+.linkflair-reviews .linkflairlabel {
+width: 55px;    
+background-color: #b3d9ff;
+text-align: center;
+    font-family: arial;  font-size: small;
+    font-weight: bolder;
+    font-style: Italic;
+    color:#000000;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 0px;}
+
+.linkflair-tourQs .linkflairlabel {
+width: 35px;    
+background-color: #b3b3ff;
+text-align: center;
+    font-family: arial;  font-size: small;
+    font-weight: bolder;
+    font-style: Italic;
+    color:#000000;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 0px;}
+
+.linkflair-covers .linkflairlabel {
+width: 45px;    
+background-color: #d9b3ff;
+text-align: center;
+    font-family: arial;  font-size: small;
+    font-weight: bolder;
+    font-style: Italic;
+    color:#000000;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 0px;}
+
+
+.linkflair-shite .linkflairlabel {
+width: 70px;    
+background-color: #ffb3ff;
+text-align: center;
+    font-family: arial;  font-size: small;
+    font-weight: bolder;
+    font-style: Italic;
+    color:#000000;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 0px;}
+
+
+
+
+.linkflair-lgtwitter .linkflairlabel {
+width: 70px;    
+background-color: #b3ffff;
+text-align: center;
+    font-family: arial;  font-size: small;
+    font-weight: bolder;
+    font-style: Italic;
+    color:#000000;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 0px;}
+
+
+
+.linkflair-qquestion .linkflairlabel {
+width: 100px;    
+background-color: #ffc6b3;
+text-align: center;
+font-size: small;
+    font-family: arial;  font-size: small;
+    font-weight: bolder;
+    font-style: Italic;
+    color:#000000;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 0px;}
+
+
+
+
+.linkflair-events .linkflairlabel {
+width: 95px;    
+background-color: #d9b3ff;
+text-align: center;
+font-size: small;
+    font-family: arial;  font-size: small;
+    font-weight: bolder;
+    font-style: Italic;
+    color:#000000;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 0px;}
+
+
+.linkflair-newinfo .linkflairlabel {
+width: 200px;    
+background-color: #FFFFFF;
+text-align: center;
+    font-family: arial;  font-size: medium;
+    font-weight: bolder;
+    font-style: Italic;
+    color:#000000;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 0px;}
+
+
+.linkflair-announcements .linkflairlabel {
+width: 125px;    
+background-color: #ffb3b3;
+text-align: center;
+font-size: small;
+    font-family: arial;  font-size: medium;
+    font-weight: bolder;
+    font-style: Italic;
+    color:#000000;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 0px;}
+
+.linkflair-audio .linkflairlabel {
+width: 45px;    
+background-color: #ffc6b3;
+text-align: center;
+font-size: small;
+    font-family: arial;  font-size: small;
+    font-weight: bolder;
+    font-style: Italic;
+    color:#000000;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 0px;}
+
+
+.linkflair-image .linkflairlabel {
+width: 45px;    
+background-color: #ffecb3;
+text-align: center;
+font-size: small;
+    font-family: arial;  font-size: small;
+    font-weight: bolder;
+    font-style: Italic;
+    color:#000000;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 0px;}
+
+.linkflair-imdeaf .linkflairlabel {
+width: 95px;    
+background-color: #b3ffc6;
+text-align: center;
+font-size: small;
+    font-family: arial;  font-size: small;
+    font-weight: bolder;
+    font-style: Italic;
+    color:#000000;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 0px;}
+
+
+
+
+/* Another round of BB's CSS bumfuckery */
+
+.report-button:hover:before {
+content: 'Please note, reports are anonymous. Please include your username if you would like us to get back to you';
+position: absolute;
+      z-index: 99;
+      margin: -3.5em 0 0 2em;
+      padding: .3em;
+      border: .1em dashed;
+      background: pink;
+      font-size: small;
+       width: 20em;
+      text-align: center;
+      white-space: normal;
+}
+
+
+
+.flair-actuallynoelG {
+ width: 95px;    
+background-color: #b3ffc6;
+text-align: center;
+font-size: small;
+    font-family: arial;  font-size: small;
+    font-weight: bolder;
+    font-style: Italic;
+    color:#000000;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    border-radius: 0px;}
