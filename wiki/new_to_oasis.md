@@ -1,6 +1,6 @@
-LAST UPDATED: April 25, 2018 at 18:20PM GMT
+LAST UPDATED: August 3, 2020 at 21:00PM GMT
 
-*This page is in the process of being brought up to date and will be getting updates frequently, along with new additions.* 
+*This page is in the process of being brought up to date and will be getting updates frequently, along with new additions.*
 
 # New to Oasis?
 
@@ -34,22 +34,22 @@ From the council estates of Manchester, UK to playing for 250,000 fans at Knebwo
 **Live Performances**
 
 * King Tuts Wah Wah Hut - May 31, 1993 - Glasgow, Scotland (UK) - Oasis “discovered” by Alan McGee of Creation Records
-*  [Glastonbury Festival](https://www.youtube.com/watch?v=-8UEeYg7wDQ)  - June 26, 1994 - Somerset, England (UK) - First appearance at Glastonbury/professional recording recently appeared 
-* [The Whiskey \(a Go Go\)](https://www.youtube.com/watch?v=Uz-xg1SAkNY) - September 29, 1994 - Los Angeles, CA (USA) - Highlighted in Supersonic/Noel leaves band for first time after gig 
+*  [Glastonbury Festival](https://www.youtube.com/watch?v=-8UEeYg7wDQ)  - June 26, 1994 - Somerset, England (UK) - First appearance at Glastonbury/professional recording recently appeared
+* [The Whiskey \(a Go Go\)](https://www.youtube.com/watch?v=Uz-xg1SAkNY) - September 29, 1994 - Los Angeles, CA (USA) - Highlighted in Supersonic/Noel leaves band for first time after gig
 * [Metro](https://www.youtube.com/watch?v=ZcjaH2tfI8w) - October 15, 1994 - Chicago, IL (USA) - Released by Epic records as [a promotional CD](https://www.discogs.com/Oasis-Live/release/1622979) in the US
 * [Southend Cliffs Pavilion](https://www.youtube.com/watch?v=Ic6AICAEZN4) - April 17, 1995 - Southend, England (UK) - Officially released as *Live by the Sea*
 * [Sheffield Arena, Sheffield, England \(UK\)](https://www.youtube.com/watch?v=YNOuLJL3CT8) - April 22, 1995 - First live performance of *Don’t Look Back in Anger*
-* [Glastonbury Festival '95](https://www.youtube.com/watch?v=rBtld-t3D0M) - June 23, 1995 - Worthy Farm, Pilton, England (UK) - First Glastonbury Festival headline performance 
+* [Glastonbury Festival '95](https://www.youtube.com/watch?v=rBtld-t3D0M) - June 23, 1995 - Worthy Farm, Pilton, England (UK) - First Glastonbury Festival headline performance
 * [Earls Court](https://www.youtube.com/watch?v=X806LY3Dadk) - November 4&5, 1995 - London, England (UK) - Portions officially released as *...There and Then*
-* [Maine Road](https://www.youtube.com/watch?v=qCpsLJMlMC0) - April 27 & 28, 1996 - Manchester, England (UK) - Portions officially released as *...There and Then* 
+* [Maine Road](https://www.youtube.com/watch?v=qCpsLJMlMC0) - April 27 & 28, 1996 - Manchester, England (UK) - Portions officially released as *...There and Then*
 * [Knebworth](https://www.youtube.com/watch?v=qAMwBBzJpJg) - August 10 & 11, 1996, Stevenage, England (UK) - Largest free-standing gig in UK history/professionally recorded (video) and audio broadcast around the world on radio
 * [MTV Unplugged](https://www.youtube.com/watch?v=RLfI24fM85o) - August 23, 1996 - Royal Festival Hall, London, England (UK)
 * [Hammerstein Ballroom](https://www.youtube.com/watch?v=6hpJ78PAVWM) - October 7 & 8, 1997, New York City, New York (USA) - Broadcast live in US on radio/first performance of BHN material in North America
-* [GMEX](https://www.youtube.com/watch?v=i8OBlstpKn0) - December 13 & 14, 1997 - Manchester, England (UK) - Televised live around the world by MTV 
+* [GMEX](https://www.youtube.com/watch?v=i8OBlstpKn0) - December 13 & 14, 1997 - Manchester, England (UK) - Televised live around the world by MTV
 
 ### The Hangover (1999-2000)
 
-With every rise, there must eventually come a fall.  Oasis' came in the aftermath of *Be Here Now* and the death of Britpop, during a period in which Oasis lost nearly all that it once had. They lost their momentum, lost the two remaining non-Gallagher original members (Paul “Bonehead” Arthurs and Paul “Guigsy” McGuigan), ended their working relationship with Owen Morris, left Creation Records and, with the help of new producer Spike Stent (who'd previously worked with the Spice Girls, Madonna, and U2) changed their sound from the classic Oasis sound of the previous three albums into something much more akin to psychedelic rock. What came of it was an album which sounded very different to those that had come before, and which contained some of the most introspective and personal lyrics Noel has ever written. 
+With every rise, there must eventually come a fall.  Oasis' came in the aftermath of *Be Here Now* and the death of Britpop, during a period in which Oasis lost nearly all that it once had. They lost their momentum, lost the two remaining non-Gallagher original members (Paul “Bonehead” Arthurs and Paul “Guigsy” McGuigan), ended their working relationship with Owen Morris, left Creation Records and, with the help of new producer Spike Stent (who'd previously worked with the Spice Girls, Madonna, and U2) changed their sound from the classic Oasis sound of the previous three albums into something much more akin to psychedelic rock. What came of it was an album which sounded very different to those that had come before, and which contained some of the most introspective and personal lyrics Noel has ever written.
 
 **Official Releases**
 
@@ -78,13 +78,13 @@ During this period, Gem Archer and Andy Bell joined the band to replace Guigsy a
 * [Tweeter Center](https://www.youtube.com/watch?v=ExXIA5xt00M) - Mansfield, MA (USA) - Tour with the Black Crowes and Spacehog, including joint jam on _Down On the Street_ by The Stooges to close out
 *  [Barrowlands](https://www.youtube.com/watch?v=thkgACUpy14) - October 14, 2001 - Glasgow, Scotland (UK) - Regarded by fans as one of the best Oasis gigs
 * [Finsbury Park](https://www.youtube.com/watch?v=npPBPg-CB78) - July 5-7, 2002 - London, England (UK) - Oasis at its full stadium rock glory
-* [Poole Lighthouse](https://www.youtube.com/watch?v=MNPuZcNjGMw) - June 23 2004 - Dorset, England (UK) - First performance of *Don't Believe The Truth* tracks/first gig with Zak Starkey as drummer 
+* [Poole Lighthouse](https://www.youtube.com/watch?v=MNPuZcNjGMw) - June 23 2004 - Dorset, England (UK) - First performance of *Don't Believe The Truth* tracks/first gig with Zak Starkey as drummer
 * [Glastonbury Festival](https://www.youtube.com/watch?v=6Hvw9AJ-Vpg) - June 25 2004 - Glastonbury, England, (UK) - Last Glastonbury Festival headline performance
 * [Alcatraz](https://www.youtube.com/watch?v=Qoox9upqvJw) - May 12, 2005 - Milan, Italy - Live broadcast on MTV
 * [City of Manchester Stadium](https://www.youtube.com/watch?v=gmf6DP2iqeQ) - July 2, 2005 - Manchester, England (UK) - Officially released as a bonus disc with *Lord Don't Slow Me Down*
 * [Wembley Arena](https://www.youtube.com/watch?v=bA9K8Pr7IRQ) - October 17, 2008 - London, England (UK) - Broadcast live on MTV One
 
-### The B-Sides 
+### The B-Sides
 
 Unlike most bands, the b-sides of the singles released by Oasis (especially through the first four albums) could have easily been on the albums.  In fact, Oasis released an album of some of the more notable b-sides in 1998 called [The Masterplan](https://open.spotify.com/album/6tgQeTZ3893n3c3MvlPzi7).  As Noel Gallagher once declared in an interview, “I don't write shit songs!” This is a good place to start, but it is recommended to hunt down the rest.  In addition to the b-sides, be sure not to miss *Sad Song* and *Bonehead’s Bank Holiday*, which were originally included as extra tracks on *Definitely Maybe* (Japan) and *(What’s the Story) Morning Glory?* (UK vinyl only), respectively.  Both are included and the remastered deluxe versions of these original albums as well.
 
@@ -93,7 +93,7 @@ Unlike most bands, the b-sides of the singles released by Oasis (especially thro
 
 ### Post-Oasis (2009-Present)
 
-Following the breakup of Oasis in 2009, Noel Gallagher launched a solo career.  At the same time, the remaining members of Oasis (Liam Gallagher, Gem Archer, Andy Bell and Chris Sharrock) decided to continue under a new name, Beady Eye.  Beady Eye went on to release two albums, before disbanding in 2014 following a range of personal issues.  In 2017, Liam Gallagher released his first solo album, to much critical acclaim.  
+Following the breakup of Oasis in 2009, Noel Gallagher launched a solo career.  At the same time, the remaining members of Oasis (Liam Gallagher, Gem Archer, Andy Bell and Chris Sharrock) decided to continue under a new name, Beady Eye.  Beady Eye went on to release two albums, before disbanding in 2014 following a range of personal issues.  In 2017, Liam Gallagher released his first solo album, to much critical acclaim.
 
 As of 2018, Andy Bell is back with his first band Ride and Gem Archer and Chris Sharrock are currently touring with Noel Gallagher as part of his High Flying Birds.
 
@@ -113,6 +113,8 @@ As of 2018, Andy Bell is back with his first band Ride and Gem Archer and Chris 
 **Official Releases**
 
 * As You Were (2017) - [Listen on Spotify](https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X) | [Metacritic](http://www.metacritic.com/music/as-you-were/liam-gallagher)
+* Why Me? Why Not (2019) - [Listen on Spotify](https://open.spotify.com/album/6iInyjotj1rYpx3vbX0MxX) | [Metacritic](https://www.metacritic.com/music/why-me-why-not/liam-gallagher)
+* MTV Unplugged (2020) - [Listen on Spotify](https://open.spotify.com/album/3Yna0ZkmP28HOjW6TqrXWp) | [Metacritic](https://www.metacritic.com/music/mtv-unplugged-live-at-hull-city-hall/liam-gallagher)
 
 **Live Performances**
 
@@ -127,6 +129,8 @@ As of 2018, Andy Bell is back with his first band Ride and Gem Archer and Chris 
 * Chasing Yesterday (2015) - [Listen on Spotify](https://open.spotify.com/album/3q0XXlwGIIRA8tw5Qpj7TX) | [Metacritic](http://www.metacritic.com/music/chasing-yesterday/noel-gallaghers-high-flying-birds)
 * Who Built the Moon? (2017) - [Listen on Spotify](https://open.spotify.com/album/044dVZJ6GIHy8LEK1WdDCq) | [Metacritic](http://www.metacritic.com/music/who-built-the-moon/noel-gallaghers-high-flying-birds)
 * Black Star Dancing (2019) - [Listen on Spotify](https://open.spotify.com/album/59KvTCbW9rHU0D8S7DOR10)
+* This Is The Place (2019) - [Listen on Spotify](https://open.spotify.com/track/2JfRvPtdeC3betQJPS2ppP)
+* Blue Moon Rising (2020) - [Listen on Spotify](https://open.spotify.com/track/2Xd3pf65j74rPn1tPqKJDI)
 
 **Live Performances**
 
@@ -142,15 +146,15 @@ Their musical skills were equally rivaled by their wit.  The media could never g
 * [Wibbling Rivalry (recorded April 7, 1994)](https://www.youtube.com/watch?v=pZzQNWcluko)
 * [White Room Sessions featuring Paul Weller April 22, 1995](https://www.youtube.com/watch?v=uqxWC5pwsgI&t=22s)
 * Top of the Pops - Various performances
-	* Shakermaker - June 22, 1994 - First appearance on Top of the Pops 
-	* Some Might Say - April 27, 1995 - Last performance by Tony McCarroll ([watch](https://www.youtube.com/watch?v=VsS13Bvv5rg))
-	* Some Might Say - May 4, 1995 - First performance by Alan White ([watch](https://www.youtube.com/watch?v=YgAgFcIeFNs))
-	* Roll with It - August 17, 1995 - Noel and Liam switch places ([watch](https://www.youtube.com/watch?v=w6M93SDCl-g))	
-* [David Letterman Show October 19, 1995](https://www.youtube.com/watch?v=ZhUVi19Vllc) - Bonehead on bass after Scott McLeod quit	
+    * Shakermaker - June 22, 1994 - First appearance on Top of the Pops
+    * Some Might Say - April 27, 1995 - Last performance by Tony McCarroll ([watch](https://www.youtube.com/watch?v=VsS13Bvv5rg))
+    * Some Might Say - May 4, 1995 - First performance by Alan White ([watch](https://www.youtube.com/watch?v=YgAgFcIeFNs))
+    * Roll with It - August 17, 1995 - Noel and Liam switch places ([watch](https://www.youtube.com/watch?v=w6M93SDCl-g))
+* [David Letterman Show October 19, 1995](https://www.youtube.com/watch?v=ZhUVi19Vllc) - Bonehead on bass after Scott McLeod quit
 * [Brit Awards - Earls Court, London, England (UK) February 19, 1996](http://www.brits.co.uk/history/shows/1996)
-	* [Best Video Award](https://www.youtube.com/watch?v=wp-yXK_EA70)
-	* [Best British Band Award](https://www.youtube.com/watch?v=wP8yDzSz9ic)
-	* [Best British Album Award](https://www.youtube.com/watch?v=QP_ACvB7RJE)
+    * [Best Video Award](https://www.youtube.com/watch?v=wp-yXK_EA70)
+    * [Best British Band Award](https://www.youtube.com/watch?v=wP8yDzSz9ic)
+    * [Best British Album Award](https://www.youtube.com/watch?v=QP_ACvB7RJE)
 * [Hey Hey It's Saturday Interview 1996](https://www.heyhey.tv/) - [Part 1](https://www.youtube.com/watch?v=nyljA7g4zl0) | [Part 2](https://www.youtube.com/watch?v=7MrbjZNOdPE) | [Part 3](https://www.youtube.com/watch?v=DzQHmSHRbqo) | [Part 4](https://www.youtube.com/watch?v=RSo_5VEybSA)
 
 ## Documentaries
@@ -165,7 +169,7 @@ There have been many documentaries created about the band (especially the early 
 * [Lock the Box](https://www.youtube.com/watch?v=847rvZXl-9k) (2006) - Retrospective about the *Stop the Clocks* compilation release.
 * [Gold and Silver and Sunshine:  The Making of Dig Out Your Soul](https://www.youtube.com/watch?v=3eoDvE7g1R0) (2008) - Documentary about the making of Oasis's last studio album.
 * [Dig Out Your Soul in the Streets](https://www.youtube.com/watch?v=CC5HI6D53XU) (2008) - Promotional documentary in which Oasis gathers New York City street musicians to play songs from their upcoming album (_Dig Out your Soul_) as a way to get the word out about the release.
-* [Supersonic](http://supersonic-movie.com/) (2016) - An amazing official documentary about their meteoric rise from the council estates of Manchester to being the biggest band in the world.  [Movie Trailer](https://youtu.be/7wZJqUrJyDs) | [IMDB](http://www.imdb.com/title/tt5213534) | [Metacritic](http://www.metacritic.com/movie/oasis-supersonic) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/oasis_supersonic/)  
+* [Supersonic](http://supersonic-movie.com/) (2016) - An amazing official documentary about their meteoric rise from the council estates of Manchester to being the biggest band in the world.  [Movie Trailer](https://youtu.be/7wZJqUrJyDs) | [IMDB](http://www.imdb.com/title/tt5213534) | [Metacritic](http://www.metacritic.com/movie/oasis-supersonic) | [Rotten Tomatoes](https://www.rottentomatoes.com/m/oasis_supersonic/)
 
 **Other**
 
@@ -197,7 +201,7 @@ If you are feeling a bit like Noel Gallagher at the BRIT Awards in 1996 and stil
 
 **Dig into the bootlegs, unreleased tracks and demo recordings**
 
-The internet is full of them.  Many of their gigs were recorded and exist as bootlegs.  There are also leaks of early demos and albums floating about.  The official re-releases of the first three albums include a lot of demos and outtakes as well.  To get started, it is recommended that you check out [Radio Supernova](https://radiosupernovablog.weebly.com) for demos, outtakes, collaborations and other hard-to-find material, as well as [The Right Ear of Nash](https://blonderazorblade.blogspot.com/search/label/Oasis) for remasters, live shows and other tasty items.
+The Internet is full of them.  Many of their gigs were recorded and exist as bootlegs.  There are also leaks of early demos and albums floating about.  The official re-releases of the first three albums include a lot of demos and outtakes as well.  To get started, it is recommended that you check out [Radio Supernova](https://radiosupernovablog.weebly.com) for demos, outtakes, collaborations and other hard-to-find material, as well as [The Right Ear of Nash](https://blonderazorblade.blogspot.com/search/label/Oasis) for remasters, live shows and other tasty items.
 
 **It's not about you, it's not about me, it's about the music**
 
@@ -213,12 +217,13 @@ If you are interested in information regarding the recording sessions, the gear 
 
 A few more pieces of information/advice that will help you contribute to this sub:
 
-* Liam’s real first name is William 
+* Liam’s real first name is William
 * “Our kid” is a northern English term for one’s sibling
 * “Mad fer it” is a phrase routinely used by the members of Oasis to refer to being totally and completely into something
 * Only Noel and Liam know why Oasis split in 2009 (and until both of them say so, there will be no reunion).
 * Oasis vs Blur was a thing in 1996 concocted by the British music press (specifically The NME).
 * Oasis was big in America during 1996-1997, despite Noel’s claims that Oasis never broke America.
+* There is a [Twitter account](https://twitter.com/LGWears) dedicated to what hat/glasses/shirt/parka Liam Gallagher is wearing in the picture that you found.
 
 And...
 
